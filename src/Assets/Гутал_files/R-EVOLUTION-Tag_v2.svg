@@ -1,0 +1,78 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no"><meta name="mobile-web-app-capable" content="yes"><meta property="og:locale" content="mn_MN"/><meta property="fb:app_id" content="185258296857856"/><meta name="theme-color" content="#6c2699"><meta property="al:ios:app_store_id" content="1477140860"><meta property="al:ios:app_name" content="shoppy.mn - дэлхийн брэндүүд нэг дор"><meta property="al:android:package" content="mn.xenon.shoppy"><meta property="al:android:app_name" content="shoppy.mn - дэлхийн брэндүүд нэг дор"><meta name="twitter:card" content="summary"/><meta name="twitter:site" content="@shoppy_mn"/><meta name="twitter:creator" content="@shoppy_mn"/><link rel="dns-prefetch" href="//api.cody.mn"><link rel="dns-prefetch" href="//fonts.googleapis.com"><link rel="dns-prefetch" href="//elastic.shoppy.mn"><title>shoppy.mn - Дэлхийн Брэндүүд нэг дор</title><meta name="description" content="Дэлхийн Брэндүүд нэг дор, Монголын хамгийн том онлайн худалдааны сайт. Баталгаат найдвартай албан ёсны брэндүүдээс сонголтоо хийн хүссэн газартаа хүргүүлэн аваарай" data-react-helmet="true"/><meta name="keywords" content="shoppy, онлайн худалдаа, шоппи, албан ёсны дэлгүүр, next electronics, Mi mongolia, adidas, reebok брэндийн дэлгүүр, захиалгын бараа, интернэт худалдаа, хямд, хамгийн хямд, хямд үнэ, бараа, худалдах, авах, түргэн, шуурхай, хүргэлт, төлбөр" data-react-helmet="true"/><meta property="og:title" content="shoppy.mn - Дэлхийн Брэндүүд нэг дор" data-react-helmet="true"/><meta property="og:description" content="Дэлхийн Брэндүүд нэг дор, Монголын хамгийн том онлайн худалдааны сайт. Баталгаат найдвартай албан ёсны брэндүүдээс сонголтоо хийн хүссэн газартаа хүргүүлэн аваарай" data-react-helmet="true"/><meta property="og:url" content="https://shoppy.mn/" data-react-helmet="true"/><meta property="og:site_name" content="shoppy.mn - Дэлхийн Брэндүүд нэг дор" data-react-helmet="true"/><meta property="og:type" content="website" data-react-helmet="true"/><style>body {
+      margin: 0;
+      padding: 0;
+    }
+    .iLoader {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #fff;
+    }
+    .lds-ring {
+      width: 64px;
+      height: 64px;
+      display: inline-block;
+      position: relative;
+    }
+    .lds-ring div {
+      width: 51px;
+      height: 51px;
+      display: block;
+      margin: 6px;
+      border-radius: 50%;
+      box-sizing: border-box;
+      animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+      border-color: #6c2699 transparent transparent transparent;
+      position: absolute;
+    }
+    .lds-ring div:nth-child(1) {
+      animation-delay: -0.45s;
+    }
+    .lds-ring div:nth-child(2) {
+      animation-delay: -0.3s;
+    }
+    .lds-ring div:nth-child(3) {
+      animation-delay: -0.15s;
+    }
+    @keyframes lds-ring {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+    }</style><link rel="icon" href="/favicon.ico?63e6e0098403cba21a07"><script defer="defer" src="/js/runtime~main.890bcabf.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.antd.ca8a0f8d.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.rc-util.3e21a9be.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.ant-design.f4306501.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.lodash.c4ca399b.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.swiper.5c86d5c3.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.rc-pagination.434d19b5.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.rc-picker.15a968ec.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.babel.3cc5b69c.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.ctrl.eee5c52f.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.rc-notification.0fb16b42.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.apollo.c19f1872.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.graphql.477857a0.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.rc-field-form.c773b797.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.rc-motion.5f592fff.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.subscriptions-transport-ws.3dc16b63.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.style-loader.f612a2ef.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.qs.0b27ff48.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.react.5e3193c1.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.emotion.1bf50e4a.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.url.5534dd49.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.react-dom.a9ce47d3.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.querystring.c3878f7b.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.prop-types.62e0fbd7.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.extract-files.30eb1877.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.css-loader.f561d45a.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.apollo-upload-client.04b413b3.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.wry.22535a03.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.ts-invariant.ac6a4f26.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/npm.remix-run.c96f72b6.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/37258.b4d5bdd9.js?63e6e0098403cba21a07"></script><script defer="defer" src="/js/main.30a5aaaa.js?63e6e0098403cba21a07"></script><meta name="apple-mobile-web-app-title" content="shoppy.mn" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" /><meta name="theme-color" content="#6c2699" /><link rel="manifest" href="/manifest.bda4955f03434c97edef36a96d383d8d.json" /></head><body><noscript>If you're seeing this message, that means <strong>JavaScript has been disabled on your browser</strong>, please <strong>enable JS</strong> to make this app work.<br>Хэрэв та энэ текстийг уншиж байгаа бол таны <strong>интернэт хөтчийн JavaScript хаалттай байна</strong>, Интернэт хөтчийн тохиргоонд <strong>javascript</strong> ийг нээхийг зөвлөж байна. /* hash: e476e1039780a6ff67225b6c6cf43d652e4c3cb8 */</noscript><div id="shoppy"><div class="iLoader"><div class="lds-ring"><div></div><div></div><div></div><div></div></div></div></div><script>if (/Alexabot/i.test(navigator.userAgent) || !/bot|google|baidu|bing|msn|duckduckbot|googlebot|bingbot|teoma|slurp|whatsapp|W3C_Validator|vkShare|outbrain|yandex|showyoubot|quora link preview|slackbot|embedly|linkedinbot|pinterest|baiduspider|ReactSnap|rogerbot|facebookexternalhit|twitterbot|Speed Insights|HeadlessChrome|Lighthouse|Prerender/i.test(navigator.userAgent)) {
+    _atrk_opts = { atrk_acct:"VAXnu1FYxz20cv", domain:"shoppy.mn",dynamic: true};
+    !function () {
+      var analytics = window.analytics = window.analytics || [];
+      if (!analytics.initialize) if (analytics.invoked) window.console && console.error && console.error('Segment snippet included twice.'); else {
+        analytics.invoked = !0;
+        analytics.methods = ['trackSubmit', 'trackClick', 'trackLink', 'trackForm', 'pageview', 'identify', 'reset', 'group', 'track', 'ready', 'alias', 'debug', 'page', 'once', 'off', 'on'];
+        analytics.factory = function (t) {
+          return function () {
+            var e = Array.prototype.slice.call(arguments);
+            e.unshift(t);
+            analytics.push(e);
+            return analytics;
+          };
+        };
+        for (var t = 0; t < analytics.methods.length; t++) {
+          var e = analytics.methods[t];
+          analytics[e] = analytics.factory(e);
+        }
+        analytics.load = function (t, e) {
+          var n = document.createElement('script');
+          n.type = 'text/javascript';
+          n.async = !0;
+          n.src = 'https://cdn.segment.com/analytics.js/v1/' + t + '/analytics.min.js';
+          var a = document.getElementsByTagName('script')[0];
+          a.parentNode.insertBefore(n, a);
+          analytics._loadOptions = e;
+        };
+        analytics.SNIPPET_VERSION = '4.1.0';
+        analytics.load('ViMnwFrRkdqY8dUVtoZ4NYMaU5ggiI1e');
+      }
+    }();
+  }</script></body></html>

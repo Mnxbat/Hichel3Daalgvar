@@ -1,0 +1,16 @@
+
+.Sweater1{
+    width: 100%;
+}
+.Zurag2 {
+    height: 300px;
+    width: 20%;
+}
+.Zurag3 {
+    height: 90%;
+    width: 90%;
+    object-fit: contain;
+}
+.Zurag3:hover {
+    scale: 1.1
+}

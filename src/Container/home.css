@@ -1,0 +1,23 @@
+.Body{
+    width: 1000px;
+    height: 300px;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+
+}
+.newsBox {
+    width:100%;
+    height: 300px;
+    background-color: #f8f8f8;  
+}
+.newsBox img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.newsBox h2{
+    font-size: 14px;
+    font-family: 'verdana';
+    display: flex;
+    justify-content: center;
+}
