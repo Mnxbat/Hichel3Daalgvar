@@ -3,6 +3,7 @@ import React from 'react'
 import "./App.css"
 import More from './Component/About';
 import Clothes from './Component/Clothes';
+import Catalog2 from './Component/Catalog';
 
 
 function App() {
@@ -12,6 +13,8 @@ function App() {
     
     {/* //   <Home /> */}
        <Clothes />
+
+       <Catalog2 />
 
     </div>
     

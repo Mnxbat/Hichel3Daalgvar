@@ -1,0 +1,48 @@
+.prebody1{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Catalog-body{
+    width: 95%;
+    height: 400px;
+    
+}
+.pictureBox{
+    width: 16%;
+    height: 400px;
+}
+.picture-frame{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.Picdetail{
+    width: 90%;
+    height: 90%;
+    object-fit: contain;
+}
+.Picdetail:hover{
+    scale: 1.1;
+}
+.pictureinfo{
+    display: grid;
+    justify-content: center;
+}
+.nameinfo{
+    font-family: 'verdana';
+    font-size: 16px;
+}
+.Information{
+    font-weight: 'Verdana';
+    font-size: 9px;
+}
+.Une2{
+    font-size: 20px;
+    font-family: 'Verdana';
+}
